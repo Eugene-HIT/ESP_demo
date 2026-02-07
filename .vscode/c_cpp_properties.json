@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "ESP-IDF",
+      "compileCommands": "c:\\Users\\LBG\\Desktop\\ESP_demo\\build\\compile_commands.json",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "includePath": [
+        "d:/v5.5.2/esp-idf/examples/common_components/protocol_examples_common/**",
+        "${workspaceFolder}/**"
+      ],
+      "compilerPath": "${config:idf.toolsPathWin}\\tools\\riscv32-esp-elf\\esp-14.2.0_20251107\\riscv32-esp-elf\\bin\\riscv32-esp-elf-gcc.exe"
+    }
+  ],
+  "version": 4
+}
